@@ -3,7 +3,7 @@ import tables
 import pygame
 
 
-# Class for the board on the screen. Design of the class is inspired from Tech With Tim. Solver algorithm is fully self constructed and implemented.
+# Class for the board on the screen. Design of the class is inspired from Tech With Tim. Solver algorithm is fully constructed and implemented by myself.
 class Board:
 	
 	# self.width indicates the width of the board
