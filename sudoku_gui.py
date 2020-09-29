@@ -123,7 +123,7 @@ def game(puzzle_num = None, custom_puzzle = None, solved_puzzle = None):
 		# If user clicks on the Main Page button
 		if main_page_button.collidepoint((mx, my)):
 			if click:
-				menu()
+				main_page()
 
 
 		# Counts how many seconds has passed
