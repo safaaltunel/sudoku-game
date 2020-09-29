@@ -200,7 +200,7 @@ def game(puzzle_num = None, custom_puzzle = None, solved_puzzle = None):
 						row = place[0]
 						col = place[1]
 
-						# If the assigned value are true
+						# If the assigned value is true
 						if board.places[row][col].temp == solved_board.places[row][col].value:
 							board.remaining_places.remove((row,col))
 							board.length_of_remaining_places -= 1
