@@ -1,5 +1,5 @@
 # sudoku-game
-A sudoku game created with pygame and raw sudoku solver
+A sudoku game and raw sudoku solver algorithm.
 
 To play the game, run the sudoku_gui.py file. Instructions are explained in the game. Pygame must be installed to run the game. If it is not installed, open the command prompt and run the "pip install pygame" command.
 
